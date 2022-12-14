@@ -1,4 +1,4 @@
-const { logger } = require('../middleware/logger.js');
+const { logger } = require('../src/middleware/logger');
 
 describe('logger middleware test', () => {
     it('logs in the console', () => {
