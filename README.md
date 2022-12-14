@@ -16,7 +16,7 @@
 
 ### Lab 2
 
-[Pull Request]()
+[Pull Request](https://github.com/Justin-Mathieu/401n22-server-deployment/pull/7)
 
 [ci/cd](https://github.com/Justin-Mathieu/401n22-server-deployment/actions) 
 
@@ -25,8 +25,7 @@
 
 ### Lab 3
 
-[Pull Request]()
-
+[Pull Request](https://github.com/Justin-Mathieu/401n22-server-deployment/pull/7)
 
 [ci/cd](https://github.com/Justin-Mathieu/401n22-server-deployment/actions) 
 
